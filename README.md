@@ -8,7 +8,7 @@ A Greek converter is a tool that converts text from one writing system to the Gr
 + Name: LeetConverter
 + Desc: Leet convertion with nato phonetizer
 
-## Package reqs
+## Package Used
 + Streamlit
 + Wordcloud
 + Matplotlib
